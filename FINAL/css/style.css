@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,700|Roboto:300,400,700&display=swap');
+
+body {
+background-color: white;
+font-family: 'lato', sans-serif;
+padding-left: 150px;
+padding-right: 150px;
+text-align: center;
+}
+
+h1 {
+font-size: 36px;
+font-weight: lighter;
+font-family: "lato",sans-serif;
+color: #011638;
+
+}
+
+h2 {
+font-size: 24px;
+font-weight: bold;
+font-family: "lato",sans-serif;
+color: #279AF1;
+
+}
+
+h3 {
+font-size: 20px;
+font-weight: normal;
+font-family: "lato",sans-serif;
+color: #364156;
+
+}
+
+p {
+font-size: 12px;
+font-weight: lighter;
+font-family: "lato",sans-serif;
+color: #364156;
+
+#hero {
+  width:150px;
+    height:150px;
+    object-fit:cover;
+    border-radius:50%;
+    display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+    padding: 4px;
+    border: 2px solid #507DBC
+}
+
+.text-box {
+  padding: 10px;
+   border-radius: 25px;
+  border:3px solid #D3ECFF;
+  width: 75%;
+  height: 130px;
+  display: inline-block;
+margin: auto;
+}
